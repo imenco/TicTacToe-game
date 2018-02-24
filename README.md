@@ -1,9 +1,9 @@
 # TicTacToe-game
 TicTacToe game where you can play versus the machine
 
-The game was developped on Jupyter Notebook and may contain an import specific for it
+The game was developped on Jupyter Notebook and may contain an import specific for it. It is written in Python 2.
 
-To execute copy the file ipynb and paste it in Jupyter Notebook (available online). The code contains a final row where a Game object is created to start the game when executing the code.
+To execute copy the file ipynb and paste it in Jupyter Notebook (Python 2 file). The code contains a final row where a Game object is created to start the game when executing the code.
 
 The game consists on different classes representing each part of the game.
 
