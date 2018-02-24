@@ -1,6 +1,8 @@
 # TicTacToe-game
 TicTacToe game where you can play versus the machine
 
+The game was developped on Jupyter Notebook and may contain an import specific for it
+
 The game consists on different classes representing each part of the game.
 
 - Cells: objects representing each cell of the board that have an ID, a status and a owner
